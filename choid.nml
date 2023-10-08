@@ -1,0 +1,458 @@
+grf {
+    grfid: "CH\01\01";
+    name: string(STR_GRF_NAME);
+    desc: string(STR_GRF_DESC);
+    version: 1;
+    min_compatible_version: 0;
+
+    param 0 {
+    	param_00 {
+    	name: string(STR_PARAM_NAME_00);
+    	def_value: 1;
+    	type: bool;
+    	}
+    }    
+
+    param 1 {
+    	param_01 {
+    	name: string(STR_PARAM_NAME_01);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 2 {
+    	param_02 {
+    	name: string(STR_PARAM_NAME_02);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 3 {
+    	param_03 {
+    	name: string(STR_PARAM_NAME_03);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 4 {
+    	param_04 {
+    	name: string(STR_PARAM_NAME_04);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 5 {
+    	param_05 {
+    	name: string(STR_PARAM_NAME_05);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 6 {
+    	param_06 {
+    	name: string(STR_PARAM_NAME_06);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 7 {
+    	param_07 {
+    	name: string(STR_PARAM_NAME_07);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 8 {
+    	param_08 {
+    	name: string(STR_PARAM_NAME_08);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+    param 9 {
+    	param_09 {
+    	name: string(STR_PARAM_NAME_09);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 10 {
+    	param_10 {
+    	name: string(STR_PARAM_NAME_10);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 11 {
+    	param_11 {
+    	name: string(STR_PARAM_NAME_11);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 12 {
+    	param_12 {
+    	name: string(STR_PARAM_NAME_12);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 13 {
+    	param_13 {
+    	name: string(STR_PARAM_NAME_13);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 14 {
+    	param_14 {
+    	name: string(STR_PARAM_NAME_14);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 15 {
+    	param_15 {
+    	name: string(STR_PARAM_NAME_15);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 16 {
+    	param_16 {
+    	name: string(STR_PARAM_NAME_16);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 17 {
+    	param_17 {
+    	name: string(STR_PARAM_NAME_17);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 18 {
+    	param_18 {
+    	name: string(STR_PARAM_NAME_18);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 19 {
+    	param_19 {
+    	name: string(STR_PARAM_NAME_19);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 20 {
+    	param_20 {
+    	name: string(STR_PARAM_NAME_20);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 21 {
+    	param_21 {
+    	name: string(STR_PARAM_NAME_21);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 22 {
+    	param_22 {
+    	name: string(STR_PARAM_NAME_22);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 23 {
+    	param_23 {
+    	name: string(STR_PARAM_NAME_23);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 24 {
+    	param_24 {
+    	name: string(STR_PARAM_NAME_24);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 25 {
+    	param_25 {
+    	name: string(STR_PARAM_NAME_25);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 26 {
+    	param_26 {
+    	name: string(STR_PARAM_NAME_26);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 27 {
+    	param_27 {
+    	name: string(STR_PARAM_NAME_27);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 28 {
+    	param_28 {
+    	name: string(STR_PARAM_NAME_28);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 29 {
+    	param_29 {
+    	name: string(STR_PARAM_NAME_29);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 30 {
+    	param_30 {
+    	name: string(STR_PARAM_NAME_30);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 31 {
+    	param_31 {
+    	name: string(STR_PARAM_NAME_31);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 32 {
+    	param_32 {
+    	name: string(STR_PARAM_NAME_32);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 33 {
+    	param_33 {
+    	name: string(STR_PARAM_NAME_33);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 34 {
+    	param_34 {
+    	name: string(STR_PARAM_NAME_34);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 35 {
+    	param_35 {
+    	name: string(STR_PARAM_NAME_35);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+
+    param 36 {
+    	param_36 {
+    	name: string(STR_PARAM_NAME_36);
+    	def_value: 1;
+    	type: bool;
+    	}
+    } 
+}
+
+
+/* Disable base game industries */
+// disable_item(FEAT_INDUSTRIES);
+
+/* Disable base game cargos */
+// disable_item(FEAT_CARGOS);
+
+/* Test parameters to disable chosen industries */
+if (param_00 == 1) {
+	disable_item(FEAT_INDUSTRIES, 0);
+}
+
+if (param_01 == 1) {
+	disable_item(FEAT_INDUSTRIES, 1);
+}
+
+if (param_02 == 1) {
+	disable_item(FEAT_INDUSTRIES, 2);
+}
+
+if (param_03 == 1) {
+	disable_item(FEAT_INDUSTRIES, 3);
+}
+
+if (param_04 == 1) {
+	disable_item(FEAT_INDUSTRIES, 4);
+}
+
+if (param_05 == 1) {
+	disable_item(FEAT_INDUSTRIES, 5);
+}
+
+if (param_06 == 1) {
+	disable_item(FEAT_INDUSTRIES, 6);
+}
+
+if (param_07 == 1) {
+	disable_item(FEAT_INDUSTRIES, 7);
+}
+
+if (param_08 == 1) {
+	disable_item(FEAT_INDUSTRIES, 8);
+}
+
+if (param_09 == 1) {
+	disable_item(FEAT_INDUSTRIES, 9);
+}
+
+if (param_10 == 1) {
+	disable_item(FEAT_INDUSTRIES, 10);
+}
+
+if (param_11 == 1) {
+	disable_item(FEAT_INDUSTRIES, 11);
+}
+
+if (param_12 == 1) {
+	disable_item(FEAT_INDUSTRIES, 12);
+}
+
+if (param_13 == 1) {
+	disable_item(FEAT_INDUSTRIES, 13);
+}
+
+if (param_14 == 1) {
+	disable_item(FEAT_INDUSTRIES, 14);
+}
+
+if (param_15 == 1) {
+	disable_item(FEAT_INDUSTRIES, 15);
+}
+
+if (param_16 == 1) {
+	disable_item(FEAT_INDUSTRIES, 16);
+}
+
+if (param_17 == 1) {
+	disable_item(FEAT_INDUSTRIES, 17);
+}
+
+if (param_18 == 1) {
+	disable_item(FEAT_INDUSTRIES, 18);
+}
+
+if (param_19 == 1) {
+	disable_item(FEAT_INDUSTRIES, 19);
+}
+
+if (param_20 == 1) {
+	disable_item(FEAT_INDUSTRIES, 20);
+}
+
+if (param_21 == 1) {
+	disable_item(FEAT_INDUSTRIES, 21);
+}
+
+if (param_22 == 1) {
+	disable_item(FEAT_INDUSTRIES, 22);
+}
+
+if (param_23 == 1) {
+	disable_item(FEAT_INDUSTRIES, 23);
+}
+
+if (param_24 == 1) {
+	disable_item(FEAT_INDUSTRIES, 24);
+}
+
+if (param_25 == 1) {
+	disable_item(FEAT_INDUSTRIES, 25);
+}
+
+if (param_26 == 1) {
+	disable_item(FEAT_INDUSTRIES, 26);
+}
+
+if (param_27 == 1) {
+	disable_item(FEAT_INDUSTRIES, 27);
+}
+
+if (param_28 == 1) {
+	disable_item(FEAT_INDUSTRIES, 28);
+}
+
+if (param_29 == 1) {
+	disable_item(FEAT_INDUSTRIES, 29);
+}
+
+if (param_30 == 1) {
+	disable_item(FEAT_INDUSTRIES, 30);
+}
+
+if (param_31 == 1) {
+	disable_item(FEAT_INDUSTRIES, 31);
+}
+
+if (param_32 == 1) {
+	disable_item(FEAT_INDUSTRIES, 32);
+}
+
+if (param_33 == 1) {
+	disable_item(FEAT_INDUSTRIES, 33);
+}
+
+if (param_34 == 1) {
+	disable_item(FEAT_INDUSTRIES, 34);
+}
+
+if (param_35 == 1) {
+	disable_item(FEAT_INDUSTRIES, 35);
+}
+
+if (param_36 == 1) {
+	disable_item(FEAT_INDUSTRIES, 36);
+}

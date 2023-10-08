@@ -1,0 +1,42 @@
+##grflangid 0x01
+
+STR_GRF_NAME	:CHOID Chujo's Original Industries Disabler
+STR_GRF_DESC	:{}{ORANGE}Disables default industries{BLACK}.{}{}Useful, for example, when you want to play with a specific ECS vector, but don't want to use the Town vector.{}Or maybe you just want to deliver lots of coal to a power station without any distractions.{}{}{ORANGE}Use at your own risk{BLACK}.{}{}----------------------{}{}{BLUE}This version has a parameter for each industry{BLACK}.{}{}If you order now we'll also throw in a set of steak knives!
+
+STR_PARAM_NAME_00	:Disable Coal mine
+STR_PARAM_NAME_01	:Disable Power station
+STR_PARAM_NAME_02	:Disable Sawmill
+STR_PARAM_NAME_03	:Disable Forest
+STR_PARAM_NAME_04	:Disable Oil refinery
+STR_PARAM_NAME_05	:Disable Oil rig
+STR_PARAM_NAME_06	:Disable Factory (temperate)
+STR_PARAM_NAME_07	:Disable Printing works
+STR_PARAM_NAME_08	:Disable Steel Mill
+STR_PARAM_NAME_09	:Disable Farm (temperate or sub-arctic)
+STR_PARAM_NAME_10	:Disable Copper ore mine
+STR_PARAM_NAME_11	:Disable Oil wells
+STR_PARAM_NAME_12	:Disable Bank (temperate)
+STR_PARAM_NAME_13	:Disable Food processing plant
+STR_PARAM_NAME_14	:Disable Paper mill
+STR_PARAM_NAME_15	:Disable Gold mine
+STR_PARAM_NAME_16	:Disable Bank (sub-tropical or sub-arctic) 
+STR_PARAM_NAME_17	:Disable Diamond mine
+STR_PARAM_NAME_18	:Disable Iron ore mine
+STR_PARAM_NAME_19	:Disable Fruit plantation
+STR_PARAM_NAME_20	:Disable Rubber plantation
+STR_PARAM_NAME_21	:Disable Water supply
+STR_PARAM_NAME_22	:Disable Water tower
+STR_PARAM_NAME_23	:Disable Factory (sub-tropical)
+STR_PARAM_NAME_24	:Disable Farm (sub-tropical)
+STR_PARAM_NAME_25	:Disable Lumber mill
+STR_PARAM_NAME_26	:Disable Candyfloss forest
+STR_PARAM_NAME_27	:Disable Sweet factory
+STR_PARAM_NAME_28	:Disable Battery farm
+STR_PARAM_NAME_29	:Disable Cola wells
+STR_PARAM_NAME_30	:Disable Toy shop
+STR_PARAM_NAME_31	:Disable Toy factory
+STR_PARAM_NAME_32	:Disable Plastic fountains
+STR_PARAM_NAME_33	:Disable Fizzy drink factory
+STR_PARAM_NAME_34	:Disable Bubble generator
+STR_PARAM_NAME_35	:Disable Toffee quarry
+STR_PARAM_NAME_36	:Disable Sugar mine
